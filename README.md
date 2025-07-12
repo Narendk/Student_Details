@@ -33,7 +33,7 @@ Dynamic row addition and deletion in the table
 
 Clone the repository
 
-git clone 
+git clone https://github.com/Narendk/Student_Details.git 
 
 Open index.html in your browser
 
